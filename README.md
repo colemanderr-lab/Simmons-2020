@@ -1,5 +1,5 @@
 # Simmons-2020
-## Drought drives spatial variation in the millet root microbiome
+### Drought drives spatial variation in the millet root microbiome
 doi:
 
 Tuesday Simmons, A. B. Styer, Grady Pierroz, A. Pedro Gonçalves, Ramji Pasricha, Amrita B. Hazra, Patricia Bubner, Devin Coleman-Derr
