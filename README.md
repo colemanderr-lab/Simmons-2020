@@ -3,7 +3,7 @@ doi:
 
 *Tuesday Simmons, A. B. Styer, Grady Pierroz, A. Pedro Gonçalves, Ramji Pasricha, Amrita B. Hazra, Patricia Bubner, Devin Coleman-Derr*
 
-Included in this repository are files and scripts to re-create figures from the paper—
+Included in this repository are...
 + feature-table.biom - an unfiltered ASV table created via QIIME2 and DADA2
 + metadata.txt - all of the metadata associated with samples
 + tree.nwk - a newick-format tree file that corresponds to the feature table
