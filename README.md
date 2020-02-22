@@ -7,6 +7,8 @@ Included in this repository are...
 + feature-table.biom - an unfiltered ASV table created via QIIME2 and DADA2
 + metadata.txt - all of the metadata associated with samples
 + tree.nwk - a newick-format tree file that corresponds to the feature table
++ taxonomy.tsv - a table of taxonomic assignments for each ASV
++ rep-seqs.fasta - a fasta file of representative sequences, i.e. sequences that are representatives of each ASV in the dataset
 + scripts.mainFigs.Rmd - an R markdown file with scripts to remake all main figures
 + scripts.suppFigs.Rmd - an R markdown file with scripts to remake all supplemental figures
 
