@@ -1,0 +1,367 @@
+SampleID	SampleType	Species	Latin	Treatment	SideTreatment	Treatment_all	Replicate	RootType	Divison	SubDivision	Timepoint	Plant	Root	Experiment	Notes
+RHIZO-FM-D1-1a	Rhizo	Foxtail Millet	Setaria italica	Severe Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-FM-D1-2a	Rhizo	Foxtail Millet	Setaria italica	Severe Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-FM-D1-2b	Rhizo	Foxtail Millet	Setaria italica	Severe Drought	NA	Drought	2b	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-FM-D1-3a	Rhizo	Foxtail Millet	Setaria italica	Severe Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-FM-D1-3b	Rhizo	Foxtail Millet	Setaria italica	Severe Drought	NA	Drought	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-FM-D2-1b	Rhizo	Foxtail Millet	Setaria italica	Moderate Drought	NA	Drought	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-FM-D2-2a	Rhizo	Foxtail Millet	Setaria italica	Moderate Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-FM-D2-3b	Rhizo	Foxtail Millet	Setaria italica	Moderate Drought	NA	Drought	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-FM-D3-1b	Rhizo	Foxtail Millet	Setaria italica	Control	NA	Watered	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-FM-D3-2a	Rhizo	Foxtail Millet	Setaria italica	Control	NA	Watered	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-FM-D3-3a	Rhizo	Foxtail Millet	Setaria italica	Control	NA	Watered	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-JM-D1-1a	Rhizo	Japanese Millet	Echinochloa esculenta	Severe Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-JM-D1-2a	Rhizo	Japanese Millet	Echinochloa esculenta	Severe Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-JM-D1-3a	Rhizo	Japanese Millet	Echinochloa esculenta	Severe Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-JM-D2-1a	Rhizo	Japanese Millet	Echinochloa esculenta	Moderate Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-JM-D2-2a	Rhizo	Japanese Millet	Echinochloa esculenta	Moderate Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-JM-D2-3a	Rhizo	Japanese Millet	Echinochloa esculenta	Moderate Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-JM-D3-1a	Rhizo	Japanese Millet	Echinochloa esculenta	Control	NA	Watered	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-JM-D3-2a	Rhizo	Japanese Millet	Echinochloa esculenta	Control	NA	Watered	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-JM-D3-3b	Rhizo	Japanese Millet	Echinochloa esculenta	Control	NA	Watered	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PM-D1-1a	Rhizo	Pearl Millet	Penisetum glaucum	Severe Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PM-D1-2a	Rhizo	Pearl Millet	Penisetum glaucum	Severe Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PM-D1-3a	Rhizo	Pearl Millet	Penisetum glaucum	Severe Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PM-D2-1a	Rhizo	Pearl Millet	Penisetum glaucum	Moderate Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PM-D2-2a	Rhizo	Pearl Millet	Penisetum glaucum	Moderate Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PM-D2-3a	Rhizo	Pearl Millet	Penisetum glaucum	Moderate Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PM-D3-1a	Rhizo	Pearl Millet	Penisetum glaucum	Control	NA	Watered	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PM-D3-2a	Rhizo	Pearl Millet	Penisetum glaucum	Control	NA	Watered	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PM-D3-3b	Rhizo	Pearl Millet	Penisetum glaucum	Control	NA	Watered	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PROSO-D1-1a	Rhizo	Proso Millet	Panicum miliaceum	Severe Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PROSO-D1-1b	Rhizo	Proso Millet	Panicum miliaceum	Severe Drought	NA	Drought	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PROSO-D1-2a	Rhizo	Proso Millet	Panicum miliaceum	Severe Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PROSO-D1-3a	Rhizo	Proso Millet	Panicum miliaceum	Severe Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PROSO-D2-1a	Rhizo	Proso Millet	Panicum miliaceum	Moderate Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PROSO-D2-2b	Rhizo	Proso Millet	Panicum miliaceum	Moderate Drought	NA	Drought	2b	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PROSO-D2-3a	Rhizo	Proso Millet	Panicum miliaceum	Moderate Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PROSO-D3-1a	Rhizo	Proso Millet	Panicum miliaceum	Control	NA	Watered	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PROSO-D3-2a	Rhizo	Proso Millet	Panicum miliaceum	Control	NA	Watered	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+RHIZO-PROSO-D3-3a	Rhizo	Proso Millet	Panicum miliaceum	Control	NA	Watered	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+Rhizo-SP-D1-A	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-D1-B	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-D2-A	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-D2-B	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-D3-A	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-D3-B	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-W1-A	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-W1-B	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-W2-A	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-W2-B	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-W3-A	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-W3-B	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-WD1-A	Rhizo	Japanese Millet	Echinochloa esculenta	Split	SplitWater	Watered	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-WD1-B	Rhizo	Japanese Millet	Echinochloa esculenta	Split	SplitDrought	Drought	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-WD2-A	Rhizo	Japanese Millet	Echinochloa esculenta	Split	SplitWater	Watered	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-WD2-B	Rhizo	Japanese Millet	Echinochloa esculenta	Split	SplitDrought	Drought	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-WD3-A	Rhizo	Japanese Millet	Echinochloa esculenta	Split	SplitWater	Watered	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SP-WD3-B	Rhizo	Japanese Millet	Echinochloa esculenta	Split	SplitDrought	Drought	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Rhizo-SR-D1-D	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	1	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-D1-L	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	1	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-D2-D	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	2	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-D2-L	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	2	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-D3-D	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	3	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-D3-L	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	3	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-D4-D	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	4	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-D4-L	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	4	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-D5-D	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	5	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-D5-L	Rhizo	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	5	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-W1-D	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	1	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-W1-L	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	1	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-W2-D	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	2	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-W2-L	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	2	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-W3-D	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	3	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-W3-L	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	3	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-W4-D	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	4	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-W4-L	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	4	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-W5-D	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	5	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Rhizo-SR-W5-L	Rhizo	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	5	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+ROOT-FM-D1-1a	Root	Foxtail Millet	Setaria italica	Severe Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-FM-D1-2a	Root	Foxtail Millet	Setaria italica	Severe Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-FM-D1-3a	Root	Foxtail Millet	Setaria italica	Severe Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-FM-D2-1a	Root	Foxtail Millet	Setaria italica	Moderate Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-FM-D2-2a	Root	Foxtail Millet	Setaria italica	Moderate Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-FM-D2-3a	Root	Foxtail Millet	Setaria italica	Moderate Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-FM-D2-3b	Root	Foxtail Millet	Setaria italica	Moderate Drought	NA	Drought	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-FM-D3-1a	Root	Foxtail Millet	Setaria italica	Control	NA	Watered	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-FM-D3-2a	Root	Foxtail Millet	Setaria italica	Control	NA	Watered	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-FM-D3-3b	Root	Foxtail Millet	Setaria italica	Control	NA	Watered	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D1-1a	Root	Japanese Millet	Echinochloa esculenta	Severe Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D1-2a	Root	Japanese Millet	Echinochloa esculenta	Severe Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D1-3b	Root	Japanese Millet	Echinochloa esculenta	Severe Drought	NA	Drought	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D2-1a	Root	Japanese Millet	Echinochloa esculenta	Moderate Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D2-1b	Root	Japanese Millet	Echinochloa esculenta	Moderate Drought	NA	Drought	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D2-2a	Root	Japanese Millet	Echinochloa esculenta	Moderate Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D2-3a	Root	Japanese Millet	Echinochloa esculenta	Moderate Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D2-3b	Root	Japanese Millet	Echinochloa esculenta	Moderate Drought	NA	Drought	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D3-1a	Root	Japanese Millet	Echinochloa esculenta	Control	NA	Watered	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D3-1b	Root	Japanese Millet	Echinochloa esculenta	Control	NA	Watered	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D3-2a	Root	Japanese Millet	Echinochloa esculenta	Control	NA	Watered	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D3-2b	Root	Japanese Millet	Echinochloa esculenta	Control	NA	Watered	2b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-JM-D3-3a	Root	Japanese Millet	Echinochloa esculenta	Control	NA	Watered	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D1-1b	Root	Pearl Millet	Penisetum glaucum	Severe Drought	NA	Drought	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D1-2a	Root	Pearl Millet	Penisetum glaucum	Severe Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D1-2b	Root	Pearl Millet	Penisetum glaucum	Severe Drought	NA	Drought	2b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D1-3a	Root	Pearl Millet	Penisetum glaucum	Severe Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D2-1b	Root	Pearl Millet	Penisetum glaucum	Moderate Drought	NA	Drought	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D2-2b	Root	Pearl Millet	Penisetum glaucum	Moderate Drought	NA	Drought	2b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D2-3a	Root	Pearl Millet	Penisetum glaucum	Moderate Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D3-1a	Root	Pearl Millet	Penisetum glaucum	Control	NA	Watered	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D3-1b	Root	Pearl Millet	Penisetum glaucum	Control	NA	Watered	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D3-2a	Root	Pearl Millet	Penisetum glaucum	Control	NA	Watered	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D3-3a	Root	Pearl Millet	Penisetum glaucum	Control	NA	Watered	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PM-D3-3b	Root	Pearl Millet	Penisetum glaucum	Control	NA	Watered	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PROSO-D1-1a	Root	Proso Millet	Panicum miliaceum	Severe Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PROSO-D1-2a	Root	Proso Millet	Panicum miliaceum	Severe Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PROSO-D1-3a	Root	Proso Millet	Panicum miliaceum	Severe Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PROSO-D1-3b	Root	Proso Millet	Panicum miliaceum	Severe Drought	NA	Drought	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PROSO-D2-1a	Root	Proso Millet	Panicum miliaceum	Moderate Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PROSO-D2-1b	Root	Proso Millet	Panicum miliaceum	Moderate Drought	NA	Drought	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PROSO-D2-2a	Root	Proso Millet	Panicum miliaceum	Moderate Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PROSO-D2-3a	Root	Proso Millet	Panicum miliaceum	Moderate Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PROSO-D3-1a	Root	Proso Millet	Panicum miliaceum	Control	NA	Watered	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PROSO-D3-2b	Root	Proso Millet	Panicum miliaceum	Control	NA	Watered	2b	NA	NA	NA	NA	NA	NA	Drought Levels	
+ROOT-PROSO-D3-3a	Root	Proso Millet	Panicum miliaceum	Control	NA	Watered	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+Root-SP-D1-A	Root	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-D1-B	Root	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-D2-A	Root	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-D2-B	Root	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-D3-A	Root	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-D3-B	Root	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-W1-A	Root	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-W1-B	Root	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-W2-A	Root	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-W2-B	Root	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-W3-A	Root	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-W3-B	Root	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-WD1-A	Root	Japanese Millet	Echinochloa esculenta	Split	SplitWater	Watered	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-WD1-B	Root	Japanese Millet	Echinochloa esculenta	Split	SplitDrought	Drought	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-WD2-A	Root	Japanese Millet	Echinochloa esculenta	Split	SplitWater	Watered	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-WD2-B	Root	Japanese Millet	Echinochloa esculenta	Split	SplitDrought	Drought	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-WD3-A	Root	Japanese Millet	Echinochloa esculenta	Split	SplitWater	Watered	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SP-WD3-B	Root	Japanese Millet	Echinochloa esculenta	Split	SplitDrought	Drought	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Root-SR-D1-D	Root	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	1	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-D1-L	Root	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	1	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-D2-D	Root	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	2	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-D2-L	Root	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	2	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-D3-D	Root	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	3	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-D3-L	Root	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	3	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-D4-D	Root	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	4	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-D4-L	Root	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	4	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-D5-D	Root	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	5	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-D5-L	Root	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	5	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-W1-D	Root	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	1	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-W1-L	Root	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	1	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-W2-D	Root	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	2	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-W2-L	Root	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	2	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-W3-D	Root	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	3	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-W3-L	Root	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	3	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-W4-D	Root	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	4	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-W4-L	Root	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	4	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-W5-D	Root	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	5	Dead	NA	NA	NA	NA	NA	Live/Dead Root	
+Root-SR-W5-L	Root	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	5	Living	NA	NA	NA	NA	NA	Live/Dead Root	
+SO-Wk1-R1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	AllRoot	AllRoot	1	Wk1-Pre	Wk1-Pre-AllRoot	Spatial Organization	
+SO-Wk1-R2-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SingleRoot	1	Wk1-Pre	Wk1-Pre-Single1	Spatial Organization	
+SO-Wk1-R2-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SingleRoot	1	Wk1-Pre	Wk1-Pre-Single2	Spatial Organization	
+SO-Wk1-R2-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SingleRoot	1	Wk1-Pre	Wk1-Pre-Single3	Spatial Organization	
+SO-Wk1-SOIL	Soil	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	Soil	Soil	1	Wk1-Pre	NA	Spatial Organization	
+SO-Wk1-Z1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	AllRhizo	AllRhizo	1	Wk1-Pre	NA	Spatial Organization	
+SO-Wk1-Z2-1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRhizo	SingleRhizo	1	Wk1-Pre	NA	Spatial Organization	
+SO-Wk1-Z2-2	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRhizo	SingleRhizo	1	Wk1-Pre	NA	Spatial Organization	
+SO-Wk1-Z2-3	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRhizo	SingleRhizo	1	Wk1-Pre	NA	Spatial Organization	
+SO-Wk10-5C-R1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	AllRoot	AllRoot	11	Wk10-C	Wk10-C-AllRoot	Spatial Organization	
+SO-Wk10-5C-R2-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SingleRoot	11	Wk10-C	Wk10-C-Single1	Spatial Organization	
+SO-Wk10-5C-R2-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SingleRoot	11	Wk10-C	Wk10-C-Single2	Spatial Organization	
+SO-Wk10-5C-R2-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SingleRoot	11	Wk10-C	Wk10-C-Single3	Spatial Organization	
+SO-Wk10-5C-R3-1-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	11	Wk10-C	Wk10-C-Sub1	Spatial Organization	
+SO-Wk10-5C-R3-1-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	11	Wk10-C	Wk10-C-Sub1	Spatial Organization	
+SO-Wk10-5C-R3-1-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	11	Wk10-C	Wk10-C-Sub1	Spatial Organization	
+SO-Wk10-5C-R3-2-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	11	Wk10-C	Wk10-C-Sub2	Spatial Organization	
+SO-Wk10-5C-R3-2-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	11	Wk10-C	Wk10-C-Sub2	Spatial Organization	
+SO-Wk10-5-C-R3-2-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	11	Wk10-C	Wk10-C-Sub2	Spatial Organization	
+SO-Wk10-5C-R3-3-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	11	Wk10-C	Wk10-C-Sub3	Spatial Organization	
+SO-Wk10-5C-R3-3-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	11	Wk10-C	Wk10-C-Sub3	Spatial Organization	
+SO-Wk10-5C-R3-3-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	11	Wk10-C	Wk10-C-Sub3	Spatial Organization	
+SO-Wk10-5C-SOIL	Soil	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	Soil	Soil	11	Wk10-C	NA	Spatial Organization	
+SO-Wk10-5-C-Z1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	AllRhizo	AllRhizo	11	Wk10-C	NA	Spatial Organization	
+SO-Wk10-5-C-Z2-1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRhizo	SingleRhizo	11	Wk10-C	NA	Spatial Organization	
+SO-Wk10-5-C-Z2-2	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRhizo	SingleRhizo	11	Wk10-C	NA	Spatial Organization	
+SO-Wk10-5-C-Z2-3	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRhizo	SingleRhizo	11	Wk10-C	NA	Spatial Organization	
+SO-Wk10-5-C-Z3-1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRhizo	SingleRhizo	11	Wk10-C	NA	Spatial Organization	
+SO-Wk10-5-C-Z3-2	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRhizo	SingleRhizo	11	Wk10-C	NA	Spatial Organization	
+SO-Wk10-5-C-Z3-3	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRhizo	SingleRhizo	11	Wk10-C	NA	Spatial Organization	
+SO-Wk10-5-D-R1	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	AllRoot	AllRoot	11	Wk10-D	Wk10-D-AllRoot	Spatial Organization	
+SO-Wk10-5D-R2-1	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	SingleRoot	SingleRoot	11	Wk10-D	Wk10-D-Single1	Spatial Organization	
+SO-Wk10-5D-R2-2	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	2	NA	SingleRoot	SingleRoot	11	Wk10-D	Wk10-D-Single2	Spatial Organization	
+SO-Wk10-5-D-R2-3	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	3	NA	SingleRoot	SingleRoot	11	Wk10-D	Wk10-D-Single3	Spatial Organization	
+SO-Wk10-5D-R3-1-1	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	SingleRoot	SubRootTop	11	Wk10-D	Wk10-D-Sub1	Spatial Organization	
+SO-Wk10-5D-R3-1-2	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	2	NA	SingleRoot	SubRootMiddle	11	Wk10-D	Wk10-D-Sub1	Spatial Organization	
+SO-Wk10-5-D-R3-1-3	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	3	NA	SingleRoot	SubRootBottom	11	Wk10-D	Wk10-D-Sub1	Spatial Organization	
+SO-Wk10-5D-R3-2-1	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	SingleRoot	SubRootTop	11	Wk10-D	Wk10-D-Sub2	Spatial Organization	
+SO-Wk10-5D-R3-2-2	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	2	NA	SingleRoot	SubRootMiddle	11	Wk10-D	Wk10-D-Sub2	Spatial Organization	
+SO-Wk10-5-D-R3-2-3	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	3	NA	SingleRoot	SubRootBottom	11	Wk10-D	Wk10-D-Sub2	Spatial Organization	
+SO-Wk10-5D-R3-3-1	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	SingleRoot	SubRootTop	11	Wk10-D	Wk10-D-Sub3	Spatial Organization	
+SO-Wk10-5-D-R3-3-2	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	2	NA	SingleRoot	SubRootMiddle	11	Wk10-D	Wk10-D-Sub3	Spatial Organization	
+SO-Wk10-5D-R3-3-3	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	3	NA	SingleRoot	SubRootBottom	11	Wk10-D	Wk10-D-Sub3	Spatial Organization	
+SO-Wk10-5D-SOIL	Soil	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	Soil	Soil	11	Wk10-D	NA	Spatial Organization	
+SO-Wk10-5-D-Z1	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	AllRhizo	AllRhizo	11	Wk10-D	NA	Spatial Organization	
+SO-Wk10-5-D-Z2-1	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	SingleRhizo	SingleRhizo	11	Wk10-D	NA	Spatial Organization	
+SO-Wk10-5-D-Z2-2	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	2	NA	SingleRhizo	SingleRhizo	11	Wk10-D	NA	Spatial Organization	
+SO-Wk10-5-D-Z2-3	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	3	NA	SingleRhizo	SingleRhizo	11	Wk10-D	NA	Spatial Organization	
+SO-Wk10-5-D-Z3-1	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	SingleRhizo	SingleRhizo	11	Wk10-D	NA	Spatial Organization	
+SO-Wk10-5-D-Z3-2	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	2	NA	SingleRhizo	SingleRhizo	11	Wk10-D	NA	Spatial Organization	
+SO-Wk10-5-D-Z3-3	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	3	NA	SingleRhizo	SingleRhizo	11	Wk10-D	NA	Spatial Organization	
+SO-Wk2-R1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	AllRoot	AllRoot	2	Wk2-Pre	Wk2-Pre-AllRoot	Spatial Organization	
+SO-Wk2-R2-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SingleRoot	2	Wk2-Pre	Wk2-Pre-Single1	Spatial Organization	
+SO-Wk2-R2-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SingleRoot	2	Wk2-Pre	Wk2-Pre-Single2	Spatial Organization	
+SO-Wk2-R2-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SingleRoot	2	Wk2-Pre	Wk2-Pre-Single3	Spatial Organization	
+SO-Wk2-R3-1-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	2	Wk2-Pre	Wk2-Pre-Sub1	Spatial Organization	
+SO-Wk2-R3-1-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	2	Wk2-Pre	Wk2-Pre-Sub1	Spatial Organization	
+SO-Wk2-R3-1-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	2	Wk2-Pre	Wk2-Pre-Sub1	Spatial Organization	
+SO-Wk2-R3-2-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	2	Wk2-Pre	Wk2-Pre-Sub2	Spatial Organization	
+SO-Wk2-R3-2-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	2	Wk2-Pre	Wk2-Pre-Sub2	Spatial Organization	
+SO-Wk2-R3-2-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	2	Wk2-Pre	Wk2-Pre-Sub2	Spatial Organization	
+SO-Wk2-R3-3-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	2	Wk2-Pre	Wk2-Pre-Sub3	Spatial Organization	
+SO-Wk2-R3-3-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	2	Wk2-Pre	Wk2-Pre-Sub3	Spatial Organization	
+SO-Wk2-R3-3-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	2	Wk2-Pre	Wk2-Pre-Sub3	Spatial Organization	
+SO-Wk2-SOIL	Soil	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	Soil	Soil	2	Wk2-Pre	NA	Spatial Organization	
+SO-Wk2-Z1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	AllRhizo	AllRhizo	2	Wk2-Pre	NA	Spatial Organization	
+SO-Wk2-Z2-1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRhizo	SingleRhizo	2	Wk2-Pre	NA	Spatial Organization	
+SO-Wk2-Z2-2	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRhizo	SingleRhizo	2	Wk2-Pre	NA	Spatial Organization	
+SO-Wk2-Z2-3	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRhizo	SingleRhizo	2	Wk2-Pre	NA	Spatial Organization	
+SO-Wk2-Z3-1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	4	NA	SingleRhizo	SingleRhizo	2	Wk2-Pre	NA	Spatial Organization	
+SO-Wk2-Z3-2	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	5	NA	SingleRhizo	SingleRhizo	2	Wk2-Pre	NA	Spatial Organization	
+SO-Wk2-Z3-3	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	6	NA	SingleRhizo	SingleRhizo	2	Wk2-Pre	NA	Spatial Organization	
+SO-Wk3-R1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	AllRoot	AllRoot	3	Wk3-Pre	Wk3-Pre-AllRoot	Spatial Organization	
+SO-Wk3-R2-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SingleRoot	3	Wk3-Pre	Wk3-Pre-Single1	Spatial Organization	
+SO-Wk3-R2-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SingleRoot	3	Wk3-Pre	Wk3-Pre-Single2	Spatial Organization	
+SO-Wk3-R2-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SingleRoot	3	Wk3-Pre	Wk3-Pre-Single3	Spatial Organization	
+SO-Wk3-R3-1-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	3	Wk3-Pre	Wk3-Pre-Sub1	Spatial Organization	
+SO-Wk3-R3-1-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	3	Wk3-Pre	Wk3-Pre-Sub1	Spatial Organization	
+SO-Wk3-R3-1-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	3	Wk3-Pre	Wk3-Pre-Sub1	Spatial Organization	
+SO-Wk3-R3-2-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	3	Wk3-Pre	Wk3-Pre-Sub2	Spatial Organization	
+SO-Wk3-R3-2-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	3	Wk3-Pre	Wk3-Pre-Sub2	Spatial Organization	
+SO-Wk3-R3-2-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	3	Wk3-Pre	Wk3-Pre-Sub2	Spatial Organization	
+SO-Wk3-R3-3-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	3	Wk3-Pre	Wk3-Pre-Sub3	Spatial Organization	
+SO-Wk3-R3-3-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	3	Wk3-Pre	Wk3-Pre-Sub3	Spatial Organization	
+SO-Wk3-R3-3-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	3	Wk3-Pre	Wk3-Pre-Sub3	Spatial Organization	
+SO-Wk3-SOIL	Soil	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	Soil	Soil	3	Wk3-Pre	NA	Spatial Organization	
+SO-Wk3-Z1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	AllRhizo	AllRhizo	3	Wk3-Pre	NA	Spatial Organization	
+SO-Wk3-Z2-1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRhizo	SingleRhizo	3	Wk3-Pre	NA	Spatial Organization	
+SO-Wk3-Z2-2	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRhizo	SingleRhizo	3	Wk3-Pre	NA	Spatial Organization	
+SO-Wk3-Z2-3	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRhizo	SingleRhizo	3	Wk3-Pre	NA	Spatial Organization	
+SO-Wk3-Z3-1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	4	NA	SingleRhizo	SingleRhizo	3	Wk3-Pre	NA	Spatial Organization	
+SO-Wk3-Z3-2	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	5	NA	SingleRhizo	SingleRhizo	3	Wk3-Pre	NA	Spatial Organization	
+SO-Wk3-Z3-3	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	6	NA	SingleRhizo	SingleRhizo	3	Wk3-Pre	NA	Spatial Organization	
+SO-Wk9C-R1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	AllRoot	AllRoot	9	Wk9-C	Wk9-C-AllRoot	Spatial Organization	
+SO-Wk9-C-R2-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SingleRoot	9	Wk9-C	Wk9-C-Single1	Spatial Organization	
+SO-Wk9C-R2-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SingleRoot	9	Wk9-C	Wk9-C-Single2	Spatial Organization	
+SO-Wk9-C-R2-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SingleRoot	9	Wk9-C	Wk9-C-Single3	Spatial Organization	
+SO-Wk9-C-R3-1-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	9	Wk9-C	Wk9-C-Sub1	Spatial Organization	
+SO-Wk9C-R3-1-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	9	Wk9-C	Wk9-C-Sub1	Spatial Organization	
+SO-Wk9-C-R3-1-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	9	Wk9-C	Wk9-C-Sub1	Spatial Organization	
+SO-Wk9C-R3-2-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	9	Wk9-C	Wk9-C-Sub2	Spatial Organization	
+SO-Wk9C-R3-2-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	9	Wk9-C	Wk9-C-Sub2	Spatial Organization	
+SO-Wk9D-R3-3-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	9	Wk9-C	Wk9-C-Sub2	Spatial Organization	"Sample names swapped. Fasta file reads SO-Wk9C-R3-2-3, but should be SO-Wk9D-R3-3-3."
+SO-Wk9C-SOIL	Soil	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	Soil	Soil	9	Wk9-C	NA	Spatial Organization	
+SO-Wk9-C-R3-3-1	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRoot	SubRootTop	9	Wk9-C	Wk9-C-Sub3	Spatial Organization	
+SO-Wk9-C-R3-3-2	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRoot	SubRootMiddle	9	Wk9-C	Wk9-C-Sub3	Spatial Organization	
+SO-Wk9-C-R3-3-3	Root	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRoot	SubRootBottom	9	Wk9-C	Wk9-C-Sub3	Spatial Organization	
+SO-Wk9-C-Z1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	AllRhizo	AllRhizo	9	Wk9-C	NA	Spatial Organization	
+SO-Wk9-C-Z2-1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	1	NA	SingleRhizo	SingleRhizo	9	Wk9-C	NA	Spatial Organization	
+SO-Wk9-C-Z2-2	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	2	NA	SingleRhizo	SingleRhizo	9	Wk9-C	NA	Spatial Organization	
+SO-Wk9-C-Z2-3	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	3	NA	SingleRhizo	SingleRhizo	9	Wk9-C	NA	Spatial Organization	
+SO-Wk9-C-Z3-1	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	4	NA	SingleRhizo	SingleRhizo	9	Wk9-C	NA	Spatial Organization	
+SO-Wk9-C-Z3-2	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	5	NA	SingleRhizo	SingleRhizo	9	Wk9-C	NA	Spatial Organization	
+SO-Wk9-C-Z3-3	Rhizo	Sorghum	Sorghum bicolor	Control	NA	Watered	6	NA	SingleRhizo	SingleRhizo	9	Wk9-C	NA	Spatial Organization	
+SO-Wk9D-R1	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	AllRoot	AllRoot	9	Wk9-D	Wk9-D-AllRoot	Spatial Organization	
+SO-Wk9D-R2-1	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	SingleRoot	SingleRoot	9	Wk9-D	Wk9-D-Single1	Spatial Organization	
+SO-Wk9D-R2-2	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	2	NA	SingleRoot	SingleRoot	9	Wk9-D	Wk9-D-Single2	Spatial Organization	
+SO-Wk9D-R2-3	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	3	NA	SingleRoot	SingleRoot	9	Wk9-D	Wk9-D-Single3	Spatial Organization	
+SO-Wk9D-R3-1-1	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	SingleRoot	SubRootTop	9	Wk9-D	Wk9-D-Sub1	Spatial Organization	
+SO-Wk9D-R3-1-2	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	2	NA	SingleRoot	SubRootMiddle	9	Wk9-D	Wk9-D-Sub1	Spatial Organization	
+SO-Wk9D-R3-1-3	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	3	NA	SingleRoot	SubRootBottom	9	Wk9-D	Wk9-D-Sub1	Spatial Organization	
+SO-Wk9D-R3-2-1	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	SingleRoot	SubRootTop	9	Wk9-D	Wk9-D-Sub2	Spatial Organization	
+SO-Wk9D-R3-2-2	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	2	NA	SingleRoot	SubRootMiddle	9	Wk9-D	Wk9-D-Sub2	Spatial Organization	
+SO-Wk9D-R3-2-3	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	3	NA	SingleRoot	SubRootBottom	9	Wk9-D	Wk9-D-Sub2	Spatial Organization	
+SO-Wk9D-R3-3-1	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	SingleRoot	SubRootTop	9	Wk9-D	Wk9-D-Sub3	Spatial Organization	
+SO-Wk9D-R3-3-2	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	2	NA	SingleRoot	SubRootMiddle	9	Wk9-D	Wk9-D-Sub3	Spatial Organization	
+SO-Wk9C-R3-2-3	Root	Sorghum	Sorghum bicolor	Drought	NA	Drought	3	NA	SingleRoot	SubRootBottom	9	Wk9-D	Wk9-D-Sub3	Spatial Organization	"Sample names swapped. Fasta file reads SO-Wk9D-R3-3-3, but should be SO-Wk9C-R3-2-3."
+SO-Wk9D-SOIL	Soil	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	Soil	Soil	9	Wk9-D	NA	Spatial Organization	
+SO-Wk9-D-Z1	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	AllRhizo	AllRhizo	9	Wk9-D	NA	Spatial Organization	
+SO-Wk9-D-Z2-1	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	1	NA	SingleRhizo	SingleRhizo	9	Wk9-D	NA	Spatial Organization	
+SO-Wk9-D-Z2-2	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	2	NA	SingleRhizo	SingleRhizo	9	Wk9-D	NA	Spatial Organization	
+SO-Wk9-D-Z2-3	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	3	NA	SingleRhizo	SingleRhizo	9	Wk9-D	NA	Spatial Organization	
+SO-Wk9-D-Z3-1	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	4	NA	SingleRhizo	SingleRhizo	9	Wk9-D	NA	Spatial Organization	
+SO-Wk9-D-Z3-2	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	5	NA	SingleRhizo	SingleRhizo	9	Wk9-D	NA	Spatial Organization	
+SO-Wk9-D-Z3-3	Rhizo	Sorghum	Sorghum bicolor	Drought	NA	Drought	6	NA	SingleRhizo	SingleRhizo	9	Wk9-D	NA	Spatial Organization	
+SOIL-FM-D1-1a	Soil	Foxtail Millet	Setaria italica	Severe Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-FM-D1-2a	Soil	Foxtail Millet	Setaria italica	Severe Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-FM-D1-3a	Soil	Foxtail Millet	Setaria italica	Severe Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-FM-D2-1a	Soil	Foxtail Millet	Setaria italica	Moderate Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-FM-D2-2a	Soil	Foxtail Millet	Setaria italica	Moderate Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-FM-D2-3a	Soil	Foxtail Millet	Setaria italica	Moderate Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-FM-D3-1a	Soil	Foxtail Millet	Setaria italica	Control	NA	Watered	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-FM-D3-2a	Soil	Foxtail Millet	Setaria italica	Control	NA	Watered	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-FM-D3-3a	Soil	Foxtail Millet	Setaria italica	Control	NA	Watered	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-FM-D3-3b	Soil	Foxtail Millet	Setaria italica	Control	NA	Watered	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-JM-D1-1a	Soil	Japanese Millet	Echinochloa esculenta	Severe Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-JM-D1-2b	Soil	Japanese Millet	Echinochloa esculenta	Severe Drought	NA	Drought	2b	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-JM-D1-3b	Soil	Japanese Millet	Echinochloa esculenta	Severe Drought	NA	Drought	3b	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-JM-D2-1a	Soil	Japanese Millet	Echinochloa esculenta	Moderate Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-JM-D2-2a	Soil	Japanese Millet	Echinochloa esculenta	Moderate Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-JM-D2-3a	Soil	Japanese Millet	Echinochloa esculenta	Moderate Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-JM-D3-1a	Soil	Japanese Millet	Echinochloa esculenta	Control	NA	Watered	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-JM-D3-2b	Soil	Japanese Millet	Echinochloa esculenta	Control	NA	Watered	2b	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-JM-D3-3a	Soil	Japanese Millet	Echinochloa esculenta	Control	NA	Watered	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PM-D1-1a	Soil	Pearl Millet	Penisetum glaucum	Severe Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PM-D1-1b	Soil	Pearl Millet	Penisetum glaucum	Severe Drought	NA	Drought	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PM-D1-2a	Soil	Pearl Millet	Penisetum glaucum	Severe Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PM-D1-3a	Soil	Pearl Millet	Penisetum glaucum	Severe Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PM-D2-1a	Soil	Pearl Millet	Penisetum glaucum	Moderate Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PM-D2-2a	Soil	Pearl Millet	Penisetum glaucum	Moderate Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PM-D2-2b	Soil	Pearl Millet	Penisetum glaucum	Moderate Drought	NA	Drought	2b	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PM-D2-3a	Soil	Pearl Millet	Penisetum glaucum	Moderate Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PM-D3-1a	Soil	Pearl Millet	Penisetum glaucum	Control	NA	Watered	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PM-D3-2a	Soil	Pearl Millet	Penisetum glaucum	Control	NA	Watered	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PM-D3-3a	Soil	Pearl Millet	Penisetum glaucum	Control	NA	Watered	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PROSO-D1-1a	Soil	Proso Millet	Panicum miliaceum	Severe Drought	NA	Drought	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PROSO-D1-2a	Soil	Proso Millet	Panicum miliaceum	Severe Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PROSO-D1-3a	Soil	Proso Millet	Panicum miliaceum	Severe Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PROSO-D2-1b	Soil	Proso Millet	Panicum miliaceum	Moderate Drought	NA	Drought	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PROSO-D2-2a	Soil	Proso Millet	Panicum miliaceum	Moderate Drought	NA	Drought	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PROSO-D2-3a	Soil	Proso Millet	Panicum miliaceum	Moderate Drought	NA	Drought	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PROSO-D3-1a	Soil	Proso Millet	Panicum miliaceum	Control	NA	Watered	1a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PROSO-D3-1b	Soil	Proso Millet	Panicum miliaceum	Control	NA	Watered	1b	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PROSO-D3-2a	Soil	Proso Millet	Panicum miliaceum	Control	NA	Watered	2a	NA	NA	NA	NA	NA	NA	Drought Levels	
+SOIL-PROSO-D3-3a	Soil	Proso Millet	Panicum miliaceum	Control	NA	Watered	3a	NA	NA	NA	NA	NA	NA	Drought Levels	
+Soil-SP-D1-A	Soil	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-D1-B	Soil	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-D2-A	Soil	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-D2-B	Soil	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-D3-A	Soil	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-D3-B	Soil	Japanese Millet	Echinochloa esculenta	Drought	FullDrought	Drought	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-W1-A	Soil	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-W1-B	Soil	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-W2-A	Soil	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-W2-B	Soil	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-W3-A	Soil	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-W3-B	Soil	Japanese Millet	Echinochloa esculenta	Watered	FullWater	Watered	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-WD1-A	Soil	Japanese Millet	Echinochloa esculenta	Split	SplitWater	Watered	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-WD1-B	Soil	Japanese Millet	Echinochloa esculenta	Split	SplitDrought	Drought	1	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-WD2-A	Soil	Japanese Millet	Echinochloa esculenta	Split	SplitWater	Watered	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-WD2-B	Soil	Japanese Millet	Echinochloa esculenta	Split	SplitDrought	Drought	2	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-WD3-A	Soil	Japanese Millet	Echinochloa esculenta	Split	SplitWater	Watered	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SP-WD3-B	Soil	Japanese Millet	Echinochloa esculenta	Split	SplitDrought	Drought	3	NA	NA	NA	NA	NA	NA	Split Pot	
+Soil-SR-D1	Soil	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	1	Soil	NA	NA	NA	NA	NA	Live/Dead Root	
+Soil-SR-D2	Soil	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	2	Soil	NA	NA	NA	NA	NA	Live/Dead Root	
+Soil-SR-D3	Soil	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	3	Soil	NA	NA	NA	NA	NA	Live/Dead Root	
+Soil-SR-D4	Soil	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	4	Soil	NA	NA	NA	NA	NA	Live/Dead Root	
+Soil-SR-D5	Soil	Japanese Millet	Echinochloa esculenta	Drought	NA	Drought	5	Soil	NA	NA	NA	NA	NA	Live/Dead Root	
+Soil-SR-W1	Soil	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	1	Soil	NA	NA	NA	NA	NA	Live/Dead Root	
+Soil-SR-W2	Soil	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	2	Soil	NA	NA	NA	NA	NA	Live/Dead Root	
+Soil-SR-W3	Soil	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	3	Soil	NA	NA	NA	NA	NA	Live/Dead Root	
+Soil-SR-W4	Soil	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	4	Soil	NA	NA	NA	NA	NA	Live/Dead Root	
+Soil-SR-W5	Soil	Japanese Millet	Echinochloa esculenta	Watered	NA	Watered	5	Soil	NA	NA	NA	NA	NA	Live/Dead Root	
+SP-FSOIL-T0	Soil	Sorghum	Sorghum bicolor	Control	Control	Watered	1	NA	NA	NA	0	NA	NA	Split Pot	
+SP-SUNMIX-T0	Soil	Sorghum	Sorghum bicolor	Control	Control	Watered	1	NA	NA	NA	0	NA	NA	Split Pot	
