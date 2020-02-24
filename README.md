@@ -12,4 +12,4 @@ Included in this repository are...
 + scripts.mainFigs.Rmd - an R markdown file with scripts to remake all main figures
 + scripts.suppFigs.Rmd - an R markdown file with scripts to remake all supplemental figures
 
-Raw sequence files have been uploaded to NCBI under SRA XXXX and are publicly available.
+Raw sequence files have been uploaded to NCBI under BioProject PRJNA607579 and are publicly available.
