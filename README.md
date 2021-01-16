@@ -1,7 +1,7 @@
 ## Drought drives spatial variation in the millet root microbiome
 *Tuesday Simmons, A. B. Styer, Grady Pierroz, A. Pedro Gonçalves, Ramji Pasricha, Amrita B. Hazra, Patricia Bubner, Devin Coleman-Derr*
 
-doi:
+doi: https://doi.org/10.3389/fpls.2020.00599
 
 Included in this repository are...
 + feature-table.biom - an unfiltered ASV table created via QIIME2 and DADA2
